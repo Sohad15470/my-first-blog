@@ -1,0 +1,27 @@
+header > nav > ul > li {
+    display: inline;
+    margin-right: 20px;
+}  
+header > nav > ul > li > a {
+    text-decoration: none;
+    color:violet;
+}
+body > footer > p {
+    
+    text-align: center;
+    
+}
+article > figure > img {
+    display: block;
+    margin: 0 auto;
+}
+article > figure > figcaption{
+    text-align: center;
+}
+article > footer > p{
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+}
