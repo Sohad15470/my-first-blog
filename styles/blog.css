@@ -31,3 +31,6 @@ article > footer > p{
 header>nav{
     background-color: rgb(60, 55, 99);
 }
+p{
+    text-align: justify;
+}
