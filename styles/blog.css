@@ -1,6 +1,9 @@
 header > nav > ul > li {
-    display: inline;
+    display: inline-block;
     margin-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }  
 header > nav > ul > li > a {
     text-decoration: none;
@@ -24,4 +27,7 @@ article > footer > p{
     border-top: 1px solid black;
     text-align: center;
     text-decoration: none;
+}
+header>nav{
+    background-color: rgb(60, 55, 99);
 }
